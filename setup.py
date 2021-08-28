@@ -12,5 +12,5 @@ setup(
     packages=find_packages(),
     entry_points="""
          [console_scripts]
-          fmc = fima.main:main""",
+          fmc = fmc.main:main""",
 )
